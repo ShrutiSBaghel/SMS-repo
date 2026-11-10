@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ShrutiSBaghel/SMS
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ShrutiSBaghel/sms-ui
